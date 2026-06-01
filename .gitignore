@@ -1,0 +1,28 @@
+# Qt / Qt Creator
+*.pro.user
+*.pro.user.*
+*.autosave
+Makefile*
+!Makefile*
+*.a
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.dylib
+
+# Build directories
+build/
+release/
+debug/
+Release/
+Debug/
+*_build/
+
+# Qt resources
+qrc_*.cpp
+
+# OS files
+.DS_Store
+Thumbs.db
